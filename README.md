@@ -10,14 +10,14 @@ The WearWave Store wants to create an annual sales report for 2024. So that, the
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
-- What are different order status in 2022?
+- What are different order status in 2024?
 - List top 10 states contributingto the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction -<a href = " https://github.com/HARSHMEET22/DATA-ANALYSIS-DASHBOARD/commit/85772508eb06db0196f6576f04d2ddc45d76aa3a"> dashboard</a>
+- Dashboard Interaction -<a href = " https://github.com/HARSHMEET22/DATA-ANALYSIS-DASHBOARD/commit/85772508eb06db0196f6576f04d2ddc45d76aa3a">dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
