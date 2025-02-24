@@ -14,10 +14,10 @@ The WearWave Store wants to create an annual sales report for 2024. So that, the
 - List top 10 states contributingto the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
--Highest selling category?
--Percentage of Total Orders delivered
+- Highest selling category?
+- Percentage of Total Orders delivered
 
--Dashboard Interaction -<a href = " https://github.com/HARSHMEET22/DATA-ANALYSIS-DASHBOARD/commit/85772508eb06db0196f6576f04d2ddc45d76aa3a"> dashboard</a>
+- Dashboard Interaction -<a href = " https://github.com/HARSHMEET22/DATA-ANALYSIS-DASHBOARD/commit/85772508eb06db0196f6576f04d2ddc45d76aa3a"> dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
@@ -26,4 +26,5 @@ The WearWave Store wants to create an annual sales report for 2024. So that, the
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## dashboard
-https://1drv.ms/f/c/2dc4ed05ae13218a/EoohE64F7cQggC12AAAAAAAB0Gw7LjbcqIwpuWrsq6mGeg?e=MTURGQ
+![dashboard](https://github.com/user-attachments/assets/6f739a9b-42b6-4812-8f42-375e3c419f1f)
+
